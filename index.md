@@ -3,7 +3,7 @@
 You can download my full [Resume](https://github.com/rnic92/temptest1/resume) or my [CV](https://github.com/rnic92/cv).
 
 
-My Publications!
+My Publications!  
 <img src="https://github.com/rnic92/temptest1/blob/gh-pages/g123.PNG" width=300 align=center>
 [Genomic signatures of Lake Erie bacteria suggest interaction in the Microcystis phycosphere](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257017)
 
