@@ -3,6 +3,11 @@
 
 You can download my full [Resume](https://github.com/rnic92/temptest1/assets/resume) or [CV](https://github.com/rnic92/assets/cv).
 
+My Interests!  
+- Bioinformatics
+- Micobiology
+- Plant Pathogens
+
 
 My Publications!  
   
