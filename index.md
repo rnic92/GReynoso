@@ -1,7 +1,7 @@
 ## Guadalupe Reynoso
 <img src="https://imsd.apsc.vt.edu/content/imsd_apsc_vt_edu/en/About/Scholars/twelfth-cohort/jcr:content/content/adaptiveimage.transform/m-medium/image.png" width=200 align=center>
 
-You can download my full [Resume](https://github.com/rnic92/temptest1/assets/resume) or [CV](https://github.com/rnic92/assets/cv).  
+You can download my full [Resume](https://github.com/rnic92/GReynoso/assets/resume) or [CV](https://github.com/rnic92/GReynoso/assets/cv).  
 Check out my [LinkedIn](https://www.linkedin.com/in/guadalupe-reynoso)  
 
 ### My Interests!  
@@ -18,8 +18,9 @@ Check out my [LinkedIn](https://www.linkedin.com/in/guadalupe-reynoso)
 - [Bacterial community structure and response to nitrogen amendments in Lake Shenandoah](https://iwaponline.com/wst/article/80/4/675/69731/Bacterial-community-structure-and-response-to)  
 __G. Reynoso__, M. R. Smith, C. P. Holmes et al
 
-
+<a href="https://journals.plos.org/plosone/article/figure/image?size=inline&id=info:doi/10.1371/journal.pone.0257017.g003">
 <img src="https://journals.plos.org/plosone/article/figure/image?size=inline&id=info:doi/10.1371/journal.pone.0257017.g003" width=70>
+</a>
 
 - [Genomic signatures of Lake Erie bacteria suggest interaction in the Microcystis phycosphere](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257017)  
 Alexa K. Hoke,__Guadalupe Reynoso__,Morgan R. Smith et al
