@@ -4,6 +4,9 @@
 You can download my full [Resume](https://github.com/rnic92/GReynoso/assets/resume) or [CV](https://github.com/rnic92/GReynoso/assets/cv).  
 Check out my [LinkedIn](https://www.linkedin.com/in/guadalupe-reynoso)  
 
+
+I am currently part of Virginia Tech's [IMSD](https://imsd.apsc.vt.edu/) Twelfth [Cohort](https://imsd.apsc.vt.edu/About/Scholars/twelfth-cohort.html).  
+I have an expected graduation date of December 2021 for my Masters Degree in Microbiology.  
 ### My Interests!  
 - Bioinformatics
 - Micobiology
