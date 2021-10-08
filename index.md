@@ -18,7 +18,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/guadalupe-reynoso)
 - [Bacterial community structure and response to nitrogen amendments in Lake Shenandoah](https://iwaponline.com/wst/article/80/4/675/69731/Bacterial-community-structure-and-response-to)  
 __G. Reynoso__, M. R. Smith, C. P. Holmes et al
 
-<a href="https://journals.plos.org/plosone/article/figure/image?size=inline&id=info:doi/10.1371/journal.pone.0257017.g003">
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257017">
 <img src="https://journals.plos.org/plosone/article/figure/image?size=inline&id=info:doi/10.1371/journal.pone.0257017.g003" width=70>
 </a>
 
