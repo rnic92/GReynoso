@@ -1,6 +1,6 @@
 ## Guadalupe Reynoso
 
-You can download my full [Resume](https://github.com/rnic92/temptest1/resume) or my [CV](https://github.com/rnic92/cv).
+You can download my full [Resume](https://github.com/rnic92/temptest1/assets/resume) or my [CV](https://github.com/rnic92/assets/cv).
 
 
 My Publications!  
