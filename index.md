@@ -4,7 +4,7 @@
 You can download my full [Resume](https://github.com/rnic92/GReynoso/assets/resume) or [CV](https://github.com/rnic92/GReynoso/assets/cv).  
 Check out my [LinkedIn](https://www.linkedin.com/in/guadalupe-reynoso)  
 
-### My Interests!  
+### My Interests  
 - Bioinformatics
 - Micobiology
 - Plant Pathogens
