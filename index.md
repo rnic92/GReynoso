@@ -10,7 +10,7 @@ I have an expected graduation date of December 2021 for my Masters Degree in Mic
 ### My Interests!  
 - Bioinformatics
 - Microbiology
-- Plant Pathogens
+- Pathogenic Microorganisms
 
 
 ### My Publications!  
