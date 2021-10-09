@@ -3,6 +3,8 @@
 
 <img src="https://github.com/rnic92/GReynoso/blob/gh-pages/assets/greypic.jpeg" width=200/>
 
+![Image](https://github.com/rnic92/GReynoso/blob/gh-pages/assets/greypic.jpeg)
+
 You can download my full [Resume](https://github.com/rnic92/GReynoso/assets/resume) or [CV](https://github.com/rnic92/GReynoso/assets/cv).  
 Check out my [LinkedIn](https://www.linkedin.com/in/guadalupe-reynoso)  
 
