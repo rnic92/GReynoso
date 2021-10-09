@@ -1,5 +1,4 @@
 ## Guadalupe Reynoso
-<img src="https://imsd.apsc.vt.edu/content/imsd_apsc_vt_edu/en/About/Scholars/twelfth-cohort/jcr:content/content/adaptiveimage.transform/m-medium/image.png" width=200 align=center/>
 
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQG2xPL0-ns7Gg/profile-displayphoto-shrink_800_800/0/1593097070428?e=1639008000&v=beta&t=R3cpYRQ2Osl5zLu6z4_xL4Li84XrqY4kOJye2pKuDTc" width=200/>
 
