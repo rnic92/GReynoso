@@ -11,7 +11,9 @@ Check out my [LinkedIn](https://www.linkedin.com/in/guadalupe-reynoso)
 
 
 I am part of Virginia Tech's [IMSD](https://imsd.apsc.vt.edu/) Twelfth [Cohort](https://imsd.apsc.vt.edu/About/Scholars/twelfth-cohort.html).  
-I have an expected graduation date of December 2021 for my Masters Degree in Microbiology.  
+I have an expected graduation date of December 2021 for my Masters Degree in Microbiology.
+Currently, I hold a Bachelors degree from James Madison University in Microbiology.
+
 ### My Interests!  
 - Bioinformatics
 - Microbiology
