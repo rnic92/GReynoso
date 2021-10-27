@@ -8,7 +8,7 @@
  <meta name="theme-color" content="#ffffff">
 </head>
 
-## Guadalupe Reynoso t
+## Guadalupe Reynoso
 
 <img align="left" src="https://media-exp1.licdn.com/dms/image/C4D03AQG2xPL0-ns7Gg/profile-displayphoto-shrink_800_800/0/1593097070428?e=1639008000&v=beta&t=R3cpYRQ2Osl5zLu6z4_xL4Li84XrqY4kOJye2pKuDTc" width=200 style="padding-right: 20px; padding-left: 20px; padding-bottom: 20px;"/>
 
