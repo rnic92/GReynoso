@@ -13,16 +13,25 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQG2xPL0-ns7Gg/profile-displayphoto-shrink_800_800/0/1593097070428?e=1639008000&v=beta&t=R3cpYRQ2Osl5zLu6z4_xL4Li84XrqY4kOJye2pKuDTc" width=200/>
 
 
+| Contact Information | |
+| ------------ | ---------- |
+| Resume: | [Resume](https://github.com/rnic92/GReynoso/blob/gh-pages/assets/Resume-GR.pdf)|
+| Email: | [greynoso@vt.edu](Greynoso@vt.edu) |
+| Phone: | (540) 335-7520 |
+| Linkedin: | [Guadalupe-Reynoso](https://www.linkedin.com/in/guadalupe-reynoso) |
+
+
 ![Tree](/docs/assets/tree1.png)
 
 
 ### Objective  
 Highly driven graduate student preparing to graduate with my master's degree and looking for employment in the field of microbiology to apply the skills I have obtained through my years of work in a research setting.  
 
-You can download my full [Resume](https://github.com/rnic92/GReynoso/blob/gh-pages/assets/Resume-GR.pdf). <!---or [CV](https://github.com/rnic92/GReynoso/assets/cv).  --->  
-Check out my [LinkedIn](https://www.linkedin.com/in/guadalupe-reynoso)  
+<!---You can download my full [Resume](https://github.com/rnic92/GReynoso/blob/gh-pages/assets/Resume-GR.pdf). or [CV](https://github.com/rnic92/GReynoso/assets/cv).
+Check out my [LinkedIn](https://www.linkedin.com/in/guadalupe-reynoso)  --->
 
 
+### About Me  
 I am part of Virginia Tech's [IMSD](https://imsd.apsc.vt.edu/) Twelfth [Cohort](https://imsd.apsc.vt.edu/About/Scholars/twelfth-cohort.html).  
 I have an expected graduation date of December 2021 for my Masters Degree in Microbiology.
 Currently, I hold a Bachelors degree from James Madison University in Microbiology.
