@@ -15,7 +15,7 @@
 
 ![Tree](/docs/assets/tree1.png)
 <p alight="center">
-<img width="100" height="100" src="/docs/assets/tree1.png">
+<img alight="center" width="100" height="100" src="/docs/assets/tree1.png">
  </p>
 ### Objective  
 Highly driven graduate student preparing to graduate with my master's degree and looking for employment in the field of microbiology to apply the skills I have obtained through my years of work in a research setting.  
