@@ -17,7 +17,6 @@
 | ------------ | ---------- |
 | Resume: | [Resume](https://github.com/rnic92/GReynoso/blob/gh-pages/assets/Resume-GR.pdf)|
 | Email: | greynoso@vt.edu |
-| Phone: | (540) 335-7520 |
 | Linkedin: | [Guadalupe-Reynoso](https://www.linkedin.com/in/guadalupe-reynoso) |
 
 
