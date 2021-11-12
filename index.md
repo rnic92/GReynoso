@@ -45,7 +45,6 @@ Currently, I hold a Bachelors degree from James Madison University in Microbiolo
 
 ### My Publications!  
 <img src="/docs/assets/m_wst-em19545f02.png" width=70>
-</a>
 
 - [Bacterial community structure and response to nitrogen amendments in Lake Shenandoah](https://iwaponline.com/wst/article/80/4/675/69731/Bacterial-community-structure-and-response-to)  
 __G. Reynoso__, M. R. Smith, C. P. Holmes et al
