@@ -16,7 +16,7 @@
 | Contact Information | |
 | ------------ | ---------- |
 | Resume: | [Resume](https://github.com/rnic92/GReynoso/blob/gh-pages/assets/Resume-GR.pdf)|
-| Email: | greynoso@vt.edu |
+| Email: | greynoso082@gmail.com |
 | Linkedin: | [Guadalupe-Reynoso](https://www.linkedin.com/in/guadalupe-reynoso) |
 
 
@@ -26,16 +26,16 @@
 
 
 ### Objective  
-Highly driven graduate student preparing to graduate with my master's degree and looking for employment in the field of microbiology to apply the skills I have obtained through my years of work in a research setting.  
+Highly driven recent graduate with my master’s degree, looking for employment to apply the skills I have obtained through my years of work in a research setting.  
 
 <!---You can download my full [Resume](https://github.com/rnic92/GReynoso/blob/gh-pages/assets/Resume-GR.pdf). or [CV](https://github.com/rnic92/GReynoso/assets/cv).
 Check out my [LinkedIn](https://www.linkedin.com/in/guadalupe-reynoso)  --->
 
 
 ### About Me  
-I am part of Virginia Tech's [IMSD](https://imsd.apsc.vt.edu/) Twelfth [Cohort](https://imsd.apsc.vt.edu/About/Scholars/twelfth-cohort.html).  
-I have an expected graduation date of December 2021 for my Masters Degree in Microbiology.
-Currently, I hold a Bachelors degree from James Madison University in Microbiology.
+I was part of Virginia Tech's [IMSD](https://imsd.apsc.vt.edu/) Twelfth [Cohort](https://imsd.apsc.vt.edu/About/Scholars/twelfth-cohort.html).  
+I defended my thesis for my Masters degree in December 2021 in Microbiology.  
+I also hold a Bachelors degree from James Madison University in Biology.
 
 ### My Interests!  
 - Bioinformatics
