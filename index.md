@@ -10,7 +10,7 @@
 
 ## Guadalupe Reynoso
 
-<img align="left" src="/docs/assets/gr.png" width=200 style="padding-right: 20px; padding-left: 20px; padding-bottom: 20px;"/>
+<img align="left" src="/docs/assets/gre.jpeg" width=200 style="padding-right: 20px; padding-left: 20px; padding-bottom: 20px;"/>
 
 
 | Contact Information | |
