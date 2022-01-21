@@ -15,7 +15,7 @@
 
 | Contact Information | |
 | ------------ | ---------- |
-| Resume: | [Resume](https://github.com/rnic92/GReynoso/blob/gh-pages/assets/Resume-GR.pdf)|
+| Resume: | [Resume](/docs/assets/Resume_GReynoso_v2.pdf)|
 | Email: | greynoso082@gmail.com |
 | Linkedin: | [Guadalupe-Reynoso](https://www.linkedin.com/in/guadalupe-reynoso) |
 
